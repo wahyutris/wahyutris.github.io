@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-08T06:12:20+07:00</updated><id>http://localhost:4000/</id><title type="html">Wahyu’s Personal Blog</title><subtitle>Isnya bakalan cerita - cerita, kumpulan portfolio, dan hal-hal yang insya Allah bakalan berguna lainnya.
+</subtitle><entry><title type="html">Software Engineering</title><link href="http://localhost:4000/inspirasi/2017/07/08/software-engineering.html" rel="alternate" type="text/html" title="Software Engineering" /><published>2017-07-08T06:08:57+07:00</published><updated>2017-07-08T06:08:57+07:00</updated><id>http://localhost:4000/inspirasi/2017/07/08/software-engineering</id><content type="html" xml:base="http://localhost:4000/inspirasi/2017/07/08/software-engineering.html">&lt;h2 id=&quot;apa-itu-software-engineering&quot;&gt;Apa itu Software Engineering?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*eaNJ7R6W5dwJh7WivduUDA.jpeg&quot; alt=&quot;ngoding&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Software engineering termasuk bagian dari ilmu komputer, lebih tepatnya yaitu pengembangan dan pembangunan software sistem komputer dan software aplikasi. System software terdiri dari program yang mengatur utilitas komputisasi dan sistem operasi. Aplikasi software termasuk user-focused program, seperti program database, web browser, dan lainnya.&lt;/p&gt;
+
+&lt;p&gt;Pengetahuan mengenai bahasa pemograman, pengembangan software, dan sistem operasi komputer adalah tiga komponen utama dari ilmu komputer. Software Engineering berhubungan, tetapi mempunyai sedikit perbedaan dengan hardware engineering. Hardware engineering adalah proses design dan pengembangan perangkat keras teknologi komputer, seperti design processor, networking, dll.&lt;/p&gt;
+
+&lt;p&gt;Beberapa cabang utama dan cabang karir dalam software engineering antara lain :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Application Development&lt;/p&gt;
+
+    &lt;p&gt;Berdasarkan pada kemampuan problem-solving, non-Web software development. Bahasa pemograman yang digunakan diantaranya Java dan C#.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;System Development&lt;/p&gt;
+
+    &lt;p&gt;Design dan Coding. Digunakan untuk support application development. Bahasa pemograman yang digunakan antara lain C dan C++.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Web Development&lt;/p&gt;
+
+    &lt;p&gt;Melakukan design software atau aplikasi untuk dijalankan pada web browser. Menggunakan bahasa pemograman seperti HTML, JavaScript dan PHP.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Embedded System Development&lt;/p&gt;
+
+    &lt;p&gt;Melakukan design sistem komputer dan software untuk digunakan pada perangkat non-komputer, seperti mobil. Menggunakan bahasa pemograman seperti C dan gabungan bahasa lainnya.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;disadur-dari-&quot;&gt;Disadur dari :&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.computerscienceonline.org/software-engineering/#What-is-Software-Engineering?&quot;&gt;Medium - Makers Institute&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Apa itu Software Engineering?</summary></entry><entry><title type="html">Bootcamp vs Kuliah</title><link href="http://localhost:4000/renungan/2017/07/07/bootcamp-vs-kuliah.html" rel="alternate" type="text/html" title="Bootcamp vs Kuliah" /><published>2017-07-07T20:02:50+07:00</published><updated>2017-07-07T20:02:50+07:00</updated><id>http://localhost:4000/renungan/2017/07/07/bootcamp-vs-kuliah</id><content type="html" xml:base="http://localhost:4000/renungan/2017/07/07/bootcamp-vs-kuliah.html">&lt;h2 id=&quot;bootcamp-vs-kuliah-&quot;&gt;Bootcamp vs Kuliah :&lt;/h2&gt;
+
+&lt;h3 id=&quot;biaya-waktu-pengalaman&quot;&gt;Biaya, Waktu, Pengalaman&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/912/original/coding-bootcamp-vs-college.png&quot; alt=&quot;bootcamp-vs-college&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Jika kamu mempunyai keiginan untuk berkarir di bidang teknologi, sekarang lebih banyak pilihan jalur pendidikan yang bisa kamu pilih untuk mengejar cita-cita tersebut. Kamu bisa memilih jalur yang menurut kamu paling sesuai, diantaranya belajar mandiri melalui kelas online, berkuliah di kampus, atau coding bootcamp profesional seperti Makers Institute. Jika kamu masih bingung untuk menentukan apakah akan memilih bootcamp atau kuliah, beberapa hal di bawah ini bisa kamu jadikan bahan pertimbangan.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Biaya&lt;/p&gt;
+
+    &lt;p&gt;Biaya biasanya menjadi hal pertama yang terpikirkan ketika berbicara mengenai pendidikan di kampus. Ini ditambah dengan meningkatnya biaya kuliah akhir-akhir ini. Peningkatan biaya tersebut juga tidak diikuti dengan peningkatan peluang mendapatkan kerja atau peningkatan upah secara signifikan sehingga pendidikan di kampus menjadi sulit dijustifikasi. Biaya kuliah di universitas-universitas top saat ini menjadi puluhan juta per tahunnya, kemudian kalikan empat, belum lagi ditambah biaya sewa tempat tinggal jika kamu berasal dari luar kota, bukan tidak mungkin keseluruhan biaya sampai kamu selesai akan melewati seratus juta. Goldman Sachs memprediksi bahwa mahasiswa belum akan membalikkan modal untuk kuliah hingga tahun kesembilan ia bekerja.&lt;/p&gt;
+
+    &lt;p&gt;Untuk yang mengejar karir menjadi coder atau developer, ada pilihan yang lebih baik, yaitu coding bootcamp, salah satunya Makers Institute. Coding bootcamp memberikan kualifikasi, referensi, dan pengalaman yang dibutuhkan untuk membuat resume yang impresif dengan biaya yang jauh lebih rendah.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Waktu&lt;/p&gt;
+
+    &lt;p&gt;Waktu juga harus menjadi pertimbangan dalam biaya sebuah pendidikan, karena hal paling berharga yang kita punya adalah waktu. Empat tahun adalah waktu yang sangat lama untuk dihabiskan dengan penghasilan yang sedikit atau tidak ada penghasilan sama sekali, terlebih jika kamu harus membayar biaya kuliah setiap semester. Untungnya, melalui Makers Institute, kamu bisa menyelesaikan pendidikanmu dan siap untuk perkerjaan pertamamu hanya dalam 12 minggu!&lt;/p&gt;
+
+    &lt;p&gt;Kami tahu bahwa sebagian besar dari kamu tidak mempunyai banyak waktu untuk diluangkan kepada pendidikan setiap hari. Kamu harus bekerja, meluangkan waktu bersama teman-teman atau keluarga, atau tanggung jawab-tanggung jawab lain, oleh karena itu pendidikan tradisional seperti kampus belum bisa kamu jalani. Di Makers Institute, terdapat program part-time yang akan memudahkan kamu membagi waktu.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pengalaman&lt;/p&gt;
+
+    &lt;p&gt;Meskipun pengalaman bukanlah kualitas yang dapat secara pasti diukur, tetapi pengalaman secara keseluruhan tetap penting dalam kehidupan. Akhir-akhir ini, banyak orang melihat universitas adalah jalan untuk menuju hidup yang lebih baik, meskipun pengalaman yang di dapat di kampus sangat jarang memenuhi ekspektasi, namun pengalaman tersebut tetaplah enjoyable dan life-enriching.&lt;/p&gt;
+
+    &lt;p&gt;Tetapi, banyak hal yang dapat dinikmati di kampus, juga dapat dinikmati melalui bootcamp. Makers Institute membangun suasana belajar menyenangkan yang dibangun berdasarkan kerjasama tim. Kemudian kelebihan lainya adalah di Makers Institute kamu akan mendapatkan pengarahan langsung dari praktisi profesional berpengalaman. Kamu akan belajar berdampingan dengan mereka sehingga instruksi yang diberikan lebih berkualitas. Kamu akan merasakan metode belajar hands-on dengan key project yang akan kamu selesaikan pada akhir program.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Siap untuk mengetahui lebih jauh keuntungan apa saja yang akan kamu dapat dengan belajar di Makers Institute? Silahkan cek website Makers karena di dalamnya ada informasi lengkap yang kamu butuhkan untuk mengambil keputusan apakah Makers Institute merupakan tempat belajar terbaik untuk kamu. Bertemu langsung dengan tim profesional Makers, sebuah tim dengan individu-individu berpengalaman yang dipilih untuk membantu kamu belajar dengan kualitas terbaik serta untuk membangun referensi yang baik ke depannya. Atau kamu juga bisa melihat program bootcamp apa saja yang ditawarkan, dan memilih program yang paling cocok untuk kebutuhamu.&lt;/p&gt;
+
+&lt;h4 id=&quot;disadur-dari-&quot;&gt;Disadur dari :&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@makers_26045/bootcamp-vs-kuliah-53952ff2b259&quot;&gt;Medium - Makers Institute&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Bootcamp vs Kuliah :</summary></entry></feed>
